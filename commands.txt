@@ -1,0 +1,5 @@
+1. buat file.txt
+2. edit file
+3. buat branch 
+4. edit file di branch baru 
+5. merge branch 
